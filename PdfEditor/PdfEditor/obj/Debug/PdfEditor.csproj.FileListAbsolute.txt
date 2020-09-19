@@ -1,0 +1,11 @@
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\obj\Debug\PdfEditor.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\obj\Debug\PdfEditor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\bin\Debug\PdfEditor.exe.config
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\bin\Debug\PdfEditor.exe
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\bin\Debug\PdfEditor.pdb
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\bin\Debug\itextsharp.dll
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\bin\Debug\itextsharp.xml
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\obj\Debug\PdfEditor.csproj.CopyComplete
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\obj\Debug\PdfEditor.exe
+C:\Users\mathe\source\repos\PdfEditor\PdfEditor\obj\Debug\PdfEditor.pdb
